@@ -13,4 +13,4 @@ $ . <(sed 's/Iyama Yuta/Ke Jie/' ../{your_dir}/Facebook_ELFGo_SQL/fb_elf.sh )
 
 ## fb_elf.sh:
 
-This requires q-TextAsData
+This requires q-TextAsData and csv file which is downloadable from https://facebook.ai/developers/tools/elf-opengo
